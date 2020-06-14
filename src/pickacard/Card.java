@@ -8,7 +8,7 @@ package pickacard;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * author shivagama
- * author Jay Rajeshbhai Patel
+ * author yashpreet kaur
  */
 public class Card {
 
@@ -60,8 +60,6 @@ public class Card {
         return suitcardSelect;
     }
 
-    void setSuit(int suitNumber) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+    
     
 }
